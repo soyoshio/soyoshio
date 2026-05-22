@@ -94,8 +94,8 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soyoshio&show_icons=true&theme=rose&bg_color=1a1a1a&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff" alt="soyoshio's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soyoshio&layout=compact&theme=rose&bg_color=1a1a1a&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soyoshio&show_icons=true&theme=rose&bg_color=1a1a1a&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff" alt="soyoshio's GitHub stats" height="165px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soyoshio&theme=rose&bg_color=1a1a1a&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff" alt="Top Langs" height="165px" />
 </p>
 
 <p align="center">
