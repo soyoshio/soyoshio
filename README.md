@@ -94,10 +94,10 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soyoshio&show_icons=true&theme=rose&bg_color=1a1a1a&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff" alt="soyoshio's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoshio&layout=compact&theme=rose&bg_color=1a1a1a&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soyoshio&show_icons=true&theme=rose&bg_color=1a1a1a&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff" alt="soyoshio's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soyoshio&layout=compact&theme=rose&bg_color=1a1a1a&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff" alt="Top Langs" height="180px" />
 </p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/soyoshio/count.svg" alt="Visitor Count" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soyoshio&label=Profile+Views&color=FF69B4&style=flat-square" alt="Visitor Count" />
+</p>
