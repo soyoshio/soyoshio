@@ -16,7 +16,7 @@
 ---
 
 ### About Me
-> Build autonomous systems to ensure software determinism.
+> "Talk is cheap. Show me the code." — Linus Torvalds
 
 * **Focus:** 专注于基于 LangGraph / MCP 协议的多智能体系统 (MAS) 与 Agentic RAG 架构设计。
 * **Philosophy:** 用确定性的架构，去规范和引导生成式 AI 的不确定性。
